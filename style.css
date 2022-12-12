@@ -116,5 +116,8 @@
       margin: 5%;
       background-color: rgb(0,0,0);
     }
+    #main-screen{
+      height: 450px;
+      width: auto;
+    }
   }
-  
