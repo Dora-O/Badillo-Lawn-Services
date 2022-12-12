@@ -71,6 +71,12 @@
     margin: 5%;
     background-color: rgb(0,0,0);
   }
+
+  .contactUS {
+    text-align: center;
+    color: whitesmoke;
+  }
+
   @media screen and (max-width: 1200px) {
     .navbar-collapse.collapse {
       display: block !important;
